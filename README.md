@@ -1,2 +1,2 @@
 # CS50-Flask-Week9
-My solutions to cs50's problem set 9.
+My solutions to CS50x problem set 9.
